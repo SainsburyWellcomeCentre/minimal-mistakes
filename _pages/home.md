@@ -35,13 +35,6 @@ feature_row_01:
     btn_class: "btn--primary"
 feature_row_02:
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
-    alt: "Nifty Registration"
-    title: "Nifty-based registration"
-    excerpt: "Register brains to the Allen Atlas with Nifty"
-    url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     title: "Visualisation: Lasagna"
     excerpt: "Slicing visualisation in Python"
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"

@@ -16,11 +16,19 @@ feature_row_ara_tools:
   - image_path: /assets/images/home/Registration.jpg
     url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
     alt: "MATLAB based registration"
-    title: "Registration in MATLAB"
+    title: "Elastix-based registration"
     excerpt: 'Registering images in MATLAB using Elastix'
     btn_label: "Enlarge image"
     btn_class: "btn--primary"
 
+feature_row_amap:
+  - image_path:  /assets/images/home/NiftyReg_Logo.jpg
+    alt: "NiftyReg Registration"
+    title: "NiftyReg-based registration"
+    excerpt: "Register brains to the Allen Atlas with NiftyReg"
+    url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 
 ---
 
