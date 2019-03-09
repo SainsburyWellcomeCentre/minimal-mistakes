@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2019-03-04
 header:
-  overlay_image: 
+  overlay_image: "http://mouse.vision/images/research/board_equations_256.jpg"
   actions:
     - label: "Build your own"
       url: "https://github.com/SainsburyWellcomeCentre/BakingTray"
