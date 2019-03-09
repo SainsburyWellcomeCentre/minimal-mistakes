@@ -40,7 +40,7 @@ feature_row_02:
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"
     btn_label: "Repo"
     btn_class: "btn--primary"
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
+  - image_path: /assets/images/home/hacks.jpg
     alt: "hacks"
     title: "Hacks"
     excerpt: "Hardware hacks for your serial-section 2p"
@@ -48,8 +48,7 @@ feature_row_02:
     btn_label: "Repo"
     btn_class: "btn--primary"
 ---
+
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row_01" %}
-
-{% include feature_row id="feature_row_02" %}
+{% include feature_row id="feature_row_01"      %}
+{% include feature_row id="feature_row_02"      %}
