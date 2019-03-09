@@ -36,7 +36,7 @@ feature_row0:
 feature_row1:
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     alt: "Nifty Registration"
-    title: "Nity-based registration"
+    title: "Nifty-based registration"
     excerpt: "Register brains to the Allen Atlas with Nifty"
     url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
     btn_label: "Read More"
@@ -45,14 +45,14 @@ feature_row1:
     title: "Visualisation: Lasagna"
     excerpt: "Slicing visualisation in Python"
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"
-    btn_label: "Upcoming meetings"
+    btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     alt: "hacks"
     title: "Hacks"
     excerpt: "Hardware hacks for your serial-section 2p"
     url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods"
-    btn_label: "Existing setups"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
