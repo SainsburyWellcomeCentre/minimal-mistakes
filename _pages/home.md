@@ -51,7 +51,7 @@ feature_row1:
     alt: "hacks"
     title: "Hacks"
     excerpt: "Hardware hacks for your serial-section 2p"
-    url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods"
+    url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods/wiki"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
