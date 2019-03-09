@@ -33,13 +33,6 @@ feature_row0:
     url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
-    alt: "Nifty Registration"
-    title: "Nifty-based registration"
-    excerpt: "Register brains to the Allen Atlas with Nifty"
-    url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row1:
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     alt: "Nifty Registration"
