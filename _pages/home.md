@@ -40,10 +40,16 @@ feature_row_02:
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"
     btn_label: "Repo"
     btn_class: "btn--primary"
+  - image_path: /assets/images/home/masiv.jpg
+    title: "Visualisation: MaSIV"
+    excerpt: "Incremental loader for full-res data in MATLAB"
+    url: "https://github.com/alexanderbrown/masiv"
+    btn_label: "Repo"
+    btn_class: "btn--primary"
   - image_path: /assets/images/home/hacks.jpg
     alt: "hacks"
     title: "Hacks"
-    excerpt: "Hardware hacks for your serial-section 2p"
+    excerpt: "Hardware hacks and protocols for your serial-section 2p"
     url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods/wiki"
     btn_label: "Repo"
     btn_class: "btn--primary"
