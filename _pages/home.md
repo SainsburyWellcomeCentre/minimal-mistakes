@@ -11,7 +11,7 @@ header:
 excerpt: "Open-source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and hardware hacks for open source serial section imaging"
-feature_row0:
+feature_row_01:
   - image_path: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
     alt: "Acquisition"
     title: "Acquisition"
@@ -27,13 +27,13 @@ feature_row0:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg
-    alt: "Matlab Elastix"
-    title: "MATLAB-based registration"
-    excerpt: "Register brains to the Allen Atlas via MATLAB and Elastix"
-    url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
+    alt: "registatrion"
+    title: "Registration to Allen Atlas"
+    excerpt: "Register brains to the Allen Atlas with Elastix or Nifty"
+    url: /registration
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row1:
+feature_row_02:
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     alt: "Nifty Registration"
     title: "Nifty-based registration"
@@ -57,6 +57,6 @@ feature_row1:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row0" %}
+{% include feature_row id="feature_row_01" %}
 
-{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row_02" %}
