@@ -17,14 +17,14 @@ feature_row_01:
     title: "Acquisition"
     excerpt: "MATLAB-based acquisition software: ready to install and ready to modify."
     url: "https://github.com/SainsburyWellcomeCentre/BakingTray/wiki"
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/stitching.jpg
     alt: "Stitching raw data"
     title: "StitchIt"
     excerpt: "Modular tile stitcher: compatible with any acquisition hardware."
     url: "https://github.com/SainsburyWellcomeCentre/StitchIt"
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg
     alt: "registatrion"
@@ -38,14 +38,14 @@ feature_row_02:
     title: "Visualisation: Lasagna"
     excerpt: "Slicing visualisation in Python"
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
     alt: "hacks"
     title: "Hacks"
     excerpt: "Hardware hacks for your serial-section 2p"
     url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods/wiki"
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}

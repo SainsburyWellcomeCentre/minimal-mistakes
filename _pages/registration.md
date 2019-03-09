@@ -18,7 +18,7 @@ feature_row_ara_tools:
     alt: "MATLAB based registration"
     title: "Elastix-based registration"
     excerpt: 'Registering images in MATLAB using Elastix'
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
 
 feature_row_amap:
@@ -27,7 +27,7 @@ feature_row_amap:
     title: "NiftyReg-based registration"
     excerpt: "Register brains using NiftyReg via aMAP"
     url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
-    btn_label: "Read More"
+    btn_label: "Repo"
     btn_class: "btn--primary"
 
 ---
