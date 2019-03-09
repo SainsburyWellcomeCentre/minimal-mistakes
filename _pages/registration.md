@@ -18,7 +18,7 @@ feature_row_ara_tools:
     alt: "MATLAB based registration"
     title: "Elastix-based registration"
     excerpt: 'Registering images in MATLAB using Elastix'
-    btn_label: "Enlarge image"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row_amap:
