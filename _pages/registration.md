@@ -22,7 +22,7 @@ feature_row_ara_tools:
     btn_class: "btn--primary"
 
 feature_row_amap:
-  - image_path:  /assets/images/home/NiftyReg_Logo.jpg
+  - image_path:  /assets/images/registration/NiftyReg_Logo.jpg
     alt: "NiftyReg Registration"
     title: "NiftyReg-based registration"
     excerpt: "Register brains to the Allen Atlas with NiftyReg"
