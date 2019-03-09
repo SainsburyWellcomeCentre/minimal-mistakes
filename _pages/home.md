@@ -10,7 +10,8 @@ header:
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 excerpt: "Open-source Serial Section Imaging"
 intro:
-  - excerpt: "Acquisition, analysis, and hardware hacks for open source serial section imaging"
+  - excerpt: "These are the tools we use in-house for acquisition, analysis, and visualisation of serial-section imaging data. 
+            We also provide information on hardware improvements and sample preparation protocols."
 feature_row_01:
   - image_path: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
     alt: "Acquisition"
@@ -29,7 +30,7 @@ feature_row_01:
   - image_path: /assets/images/home/Registration.jpg
     alt: "registatrion"
     title: "Registration to Allen Atlas"
-    excerpt: "Register brains to the Allen Atlas with Elastix or Nifty"
+    excerpt: "Register brains to the Allen Atlas with Elastix or NiftyReg."
     url: /registration
     btn_label: "Read More"
     btn_class: "btn--primary"
