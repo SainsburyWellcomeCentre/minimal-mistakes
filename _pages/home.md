@@ -34,7 +34,7 @@ feature_row_01:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_02:
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
+  - image_path: /assets/images/home/Lasagna.jpg
     title: "Visualisation: Lasagna"
     excerpt: "Slicing visualisation in Python"
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"

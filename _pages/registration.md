@@ -33,3 +33,4 @@ feature_row_amap:
 ---
 
 {% include feature_row id="feature_row_ara_tools" type="left" %}
+{% include feature_row id="feature_row_amap" type="left" %}
