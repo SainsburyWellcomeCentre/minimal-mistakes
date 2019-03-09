@@ -12,11 +12,11 @@ excerpt: "Open-source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and hardware hacks for open source serial section imaging"
 feature_row0:
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
+  - image_path: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
     alt: "Acquisition"
     title: "Acquisition"
     excerpt: "MATLAB-based acquisition software: ready to install and ready to modify"
-    url: "https://github.com/SainsburyWellcomeCentre/BakingTray"
+    url: "https://github.com/SainsburyWellcomeCentre/BakingTray/wiki"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
