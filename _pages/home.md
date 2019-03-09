@@ -19,8 +19,8 @@ feature_row0:
     url: "https://github.com/SainsburyWellcomeCentre/BakingTray/wiki"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: "http://mouse.vision/images/research/board_equations_256.jpg"
-    alt: "Axially scanned light-sheet microscopy"
+  - image_path: /assets/images/home/stitching.jpg
+    alt: "Stitching raw data"
     title: "Stitching"
     excerpt: "Modular tile stitcher: compatible with any acquisition hardware."
     url: "https://github.com/SainsburyWellcomeCentre/StitchIt"
