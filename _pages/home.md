@@ -26,7 +26,7 @@ feature_row0:
     url: "https://github.com/SainsburyWellcomeCentre/StitchIt"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: "http://mouse.vision/images/paperIcons/Han_2018_250px.jpg"
+  - image_path: /assets/images/home/Registration.jpg
     alt: "Matlab Elastix"
     title: "MATLAB-based registration"
     excerpt: "Register brains to the Allen Atlas via MATLAB and Elastix"
