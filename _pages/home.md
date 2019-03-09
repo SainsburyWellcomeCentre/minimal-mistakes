@@ -2,12 +2,12 @@
 title: "Open Serial Section"
 layout: splash
 permalink: /
-date: 2019-03-04
+date: 2019-03-07
 header:
   overlay_image: "http://mouse.vision/images/research/board_equations_256.jpg"
   actions:
-    - label: "Build your own"
-      url: "https://github.com/SainsburyWellcomeCentre/BakingTray"
+    - label: "All repos"
+      url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 excerpt: "Open-source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and hardware hacks for open source serial section imaging"
