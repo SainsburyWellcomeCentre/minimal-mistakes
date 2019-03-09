@@ -2,7 +2,7 @@
 permalink: /registration/
 title: "Registering serial section data"
 layout: splash
-excerpt: "Registering serial section data"
+excerpt: "Sample registration to the Allen Atlas"
 toc: false
 header:
   overlay_color: "#000"
@@ -13,7 +13,7 @@ header:
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 
 feature_row_ara_tools:
-  - image_path: /assets/images/home/Registration.jpg
+  - image_path: /assets/images/registration/reg_coronal.jpg
     url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
     alt: "MATLAB based registration"
     title: "Elastix-based registration"
@@ -25,7 +25,7 @@ feature_row_amap:
   - image_path:  /assets/images/registration/NiftyReg_Logo.jpg
     alt: "NiftyReg Registration"
     title: "NiftyReg-based registration"
-    excerpt: "Register brains to the Allen Atlas with NiftyReg"
+    excerpt: "Register brains using NiftyReg via aMAP"
     url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
     btn_label: "Read More"
     btn_class: "btn--primary"
