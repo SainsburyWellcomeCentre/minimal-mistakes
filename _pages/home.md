@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 date: 2019-03-07
 header:
-  overlay_image: "http://mouse.vision/images/home-page/DAPI_CH0_1950px.jpg"
+  overlay_image: "/assets/images/GCamp6s_brain.jpg"
   actions:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
