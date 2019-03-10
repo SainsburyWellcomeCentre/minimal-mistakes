@@ -16,7 +16,7 @@ We make available both published and unpublished software via our [Serial2P](htt
 * We describe how [to modify commercial systems](https://github.com/SainsburyWellcomeCentre/TissueVisionMods/wiki) in order to run [open source acquisition software](https://github.com/SainsburyWellcomeCentre/BakingTray). 
 * [StitchIt](https://github.com/SainsburyWellcomeCentre/StitchIt), our modular tile stitcher for MATLAB
 * [Registration to the Allen Atlas](https://sainsburywellcomecentre.github.io/OpenSerialSection/registration/)
-* A blog organised by [date](/year), by [tag](/tags), or by [category](/categories)
+* A blog organised by [date]({{ site.baseurl }}/year), by [tag]({{ site.baseurl }}/tags), or by [category]({{ site.baseurl }}/categories)
 
 
 ### Contacting Us
