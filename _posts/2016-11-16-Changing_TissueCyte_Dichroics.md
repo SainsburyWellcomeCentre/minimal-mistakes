@@ -2,7 +2,7 @@
 title: "Changing the dichroics on the TissueCyte"
 excerpt: "How to change the dichroics on the TissueCyte"
 header:
-  teaser: "/assets/images/home/GCamp6s_brain.jpg"
+  teaser: "/assets/images/posts/SM2_filter_holder.png"
 categories:
   - Acquisition
 tags: 
