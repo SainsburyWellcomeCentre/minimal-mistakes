@@ -16,7 +16,7 @@ feature_row_01:
     alt: "Acquisition"
     title: "Acquisition"
     excerpt: "MATLAB-based acquisition and stitching software: ready to install and ready to modify."
-    url: /acquisition
+    url: /ssacquisition
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg

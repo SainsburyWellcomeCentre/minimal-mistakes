@@ -1,5 +1,5 @@
 ---
-permalink: /acquisition/
+permalink: /ssacquisition/
 title: "Image Acquisition and Stitching"
 layout: splash
 excerpt: "Open tools for acquiring and stitching serial section data"
