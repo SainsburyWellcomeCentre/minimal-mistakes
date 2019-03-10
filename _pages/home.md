@@ -10,8 +10,7 @@ header:
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 excerpt: "Open-source Serial Section Imaging"
 intro:
-  - excerpt: "These are the tools we use in-house for acquisition, analysis, and visualisation of serial-section imaging data. 
-            We also provide information on hardware improvements and sample preparation protocols."
+  - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."
 feature_row_01:
   - image_path: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
     alt: "Acquisition"

@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
+  - title: "Links"
+    url: /links/
   - title: "SWC"
     url: https://www.sainsburywellcome.org/web/
   # - title: "About"
