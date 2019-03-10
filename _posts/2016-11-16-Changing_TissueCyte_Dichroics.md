@@ -24,7 +24,7 @@ So we keep the same SM2 lens holder but change what is mounted in it.
 
 Our dichroic holder looks like this:
 <figure>
-    <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder.png">
+    <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
 </figure>
 
 The unit can be 3-D printed and the design files are in the TissueVisionMods git repository. 
@@ -37,6 +37,6 @@ Ensure the coated surface is facing the incoming light.
 Handle the dichroics carefully! The surfaces are delicate.
 
 <figure>
-    <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
+    <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
 </figure>
 
