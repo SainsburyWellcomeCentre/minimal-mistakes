@@ -31,6 +31,6 @@ The first time you thread a screw into the hole there will be some resistance, s
 Use an [SM2 spanner wrench](https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW604) (SPW604) to perform the replacement. Handle the dichroics carefully! The surfaces are delicate.
 
 <figure>
-    <a href="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png">"<img src="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png"></a>
+    <a href="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png">"<img src="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg"></a>
 </figure>
 
