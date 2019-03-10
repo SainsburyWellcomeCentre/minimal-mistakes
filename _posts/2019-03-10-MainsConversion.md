@@ -1,6 +1,7 @@
 ---
 title: "Converting TissueCyte PSUs from 120V to 240V"
 excerpt: "Post on how to switch the AC input voltage on the TissueCyte control boxes"
+author: robc
 header:
   teaser: "/assets/images/home/GCamp6s_brain.jpg"
 categories:
