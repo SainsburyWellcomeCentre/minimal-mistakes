@@ -32,21 +32,7 @@ feature_row_01:
     url: /visualisation
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row_02:
-  - image_path: /assets/images/home/Lasagna.jpg
-    title: "Visualisation: Lasagna"
-    excerpt: "Slicing visualisation in Python"
-    url: "https://github.com/SainsburyWellcomeCentre/lasagna"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/home/masiv.jpg
-    title: "Visualisation: MaSIV"
-    excerpt: "Incremental loader for full-res data in MATLAB"
-    url: "https://github.com/alexanderbrown/masiv"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_01"      %}
-{% include feature_row id="feature_row_02"      %}
