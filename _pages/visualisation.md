@@ -33,4 +33,4 @@ feature_row_masiv:
 ---
 
 {% include feature_row id="feature_row_lasagna" type="left" %}
-{% include feature_row id="feature_row_masiv"      type="left" %}
+{% include feature_row id="feature_row_masiv"   type="left" %}

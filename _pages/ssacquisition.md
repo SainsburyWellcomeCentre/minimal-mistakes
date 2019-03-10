@@ -21,7 +21,7 @@ feature_row_bakingtray:
     btn_label: "Repo"
     btn_class: "btn--primary"
 
-feature_row_stitchit
+feature_row_stitchit:
   - image_path:  /assets/images/home/stitching.jpg
     alt: "Stitching"
     title: "StitchIt: assembling tile scan data to stitched sections"
