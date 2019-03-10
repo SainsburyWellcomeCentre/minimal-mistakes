@@ -1,5 +1,5 @@
 ---
-title: "Objective height"
+title: "Objective height adjustment"
 excerpt: "Protocol for adjusting TissueCyte objective height"
 header:
   teaser: "/assets/images/home/GCamp6s_brain.jpg"
