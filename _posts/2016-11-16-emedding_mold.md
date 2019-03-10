@@ -12,9 +12,9 @@ toc: false
  This page shows images of the embedding system used at the Mrsic-Flogel lab. The first two images show the assembled system:
 
 <figure class="half">
-<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_02.jpg"
+<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_02.jpg">
 <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_02.jpg"></a>
-<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_01.jpg"
+<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_01.jpg">
 <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_assembled_01.jpg"></a>
 </figure>
 
@@ -26,9 +26,9 @@ Then the mold is filled with agar (not shown).
 
 
 <figure class="half">
-<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_supports.jpg"
+<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_supports.jpg">
 <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_supports.jpg"></a>
-<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_mold_and_supports.jpg"
+<a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_mold_and_supports.jpg">
 <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_embedding_mold_and_supports.jpg"></a>
 </figure>
 
