@@ -3,7 +3,7 @@
 robc:
   name        : "Rob Campbell"
   bio         : ""
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/icons/robc.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -15,7 +15,7 @@ robc:
 adamt:
   name        : "Adam Tyson"
   bio         : ""
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -28,7 +28,7 @@ adamt:
 antoninb:
   name        : "Antonin Blot"
   bio         : ""
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
