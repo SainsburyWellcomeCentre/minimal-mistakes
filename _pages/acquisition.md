@@ -1,13 +1,13 @@
 ---
 permalink: /acquisition/
-title: "Registering serial section data"
+title: "Image Acquisition & Stitching"
 layout: splash
-excerpt: "Sample registration to the Allen Atlas"
+excerpt: "Acquisition and stitching of serial section data"
 toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/registration/reg_banner.jpg
+  overlay_image: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
   actions:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
