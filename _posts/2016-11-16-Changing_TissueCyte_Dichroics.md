@@ -30,6 +30,10 @@ Our dichroic holder looks like this:
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
 </figure>
 
+<figure>
+    <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder.png">
+</figure>
+
 The unit can be 3-D printed and the design files are in the TissueVisionMods git repository. 
 You can attach the dichroic of your choice into the holder. 
 The dichroic is held in place using two M2 screws with plastic M2 washers. 
