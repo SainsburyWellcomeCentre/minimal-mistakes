@@ -22,7 +22,7 @@ We usually run the system with the stock dichroics, but sometimes replace them f
 
 Our dichroic holder looks like this:
 <figure>
-    <a href="/assets/images/posts/SM2_filter_holder.png"><img src="/assets/images/posts/SM2_filter_holder.png"></a>
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
 </figure>
 
 The unit can be 3-D printed and the design files are in the TissueVisionMods git repository. You can attach the dichroic of your choice into the holder. The dichroic is held in place using two M2 screws with plastic M2 washers. 
@@ -31,6 +31,6 @@ The first time you thread a screw into the hole there will be some resistance, s
 Use an [SM2 spanner wrench](https://www.thorlabs.com/thorproduct.cfm?partnumber=SPW604) (SPW604) to perform the replacement. Handle the dichroics carefully! The surfaces are delicate.
 
 <figure>
-    <a href="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png">"<img src="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg"></a>
+    <a href="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png"><img src="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg"></a>
 </figure>
 
