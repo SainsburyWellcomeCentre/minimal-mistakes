@@ -3,7 +3,7 @@ title: "Stopping the TissueCyte on laser modelock failure"
 excerpt: "Code and instructions for stopping the TissueCyte upon laser modelock failure"
 author: robc
 header:
-  teaser: "/assets/images/home/GCamp6s_brain.jpg"
+  teaser: "/assets/images/posts/laserWithBeam.jpg"
 categories:
   - Acquisition
 tags: 
