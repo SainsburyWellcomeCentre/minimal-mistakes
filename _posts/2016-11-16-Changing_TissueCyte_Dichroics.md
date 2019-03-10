@@ -40,3 +40,4 @@ Handle the dichroics carefully! The surfaces are delicate.
     <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
 </figure>
 
+[Here are the CAD models for 3-D printing]({{ site.baseurl }}/assets/CAD/posts/dichroic_holder_CAD.tar.gz).
