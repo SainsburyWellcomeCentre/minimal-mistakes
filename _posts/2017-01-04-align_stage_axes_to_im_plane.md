@@ -41,6 +41,5 @@ Ensuring that the imaging plane and the and stage motion plane are parallel is s
 We did this by imaging fluorescent microspheres and translating them across the frame and estimating the tilt by focusing with the PIFOC.
 If the tilt is unacceptable for your purposes, you can correct it with the [adjustable stage tilt](/adjustable_stage_tilt/) modification.
 
-
+[adjustable stage tilt]("/adjustable_stage_tilt") 
 [adjustable stage tilt]({{ site.baseurl }}/adjustable_stage_tilt) 
-[adjustable stage tilt]({{ site.url }}{{ site.baseurl }}/adjustable_stage_tilt) 
