@@ -1,6 +1,6 @@
 ---
-title: "Adjustable stage tilt"
-excerpt: "Provide for fine adjustment of TissueCyte X/Y/Z stage"
+title: "Adjustable stage tilt on TissueCyte"
+excerpt: "How to add fine tip/tilt adjusters to the TissueCyte X/Y/Z stage"
 header:
   teaser: "/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"
 categories:
