@@ -34,9 +34,9 @@ If you are careful in setting the height of the posts before screwing them into 
 - Tighten the lock-ring on the posts. 
 
 <figure>
-<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_01.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_01.jpg" width=300px  alt="stage"/> </a>
-<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_02.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_02.jpg" width=300px  alt="stage"/> </a>
-<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_03.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_03.jpg" width=300px  alt="stage"/> </a>
+<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_01.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_01.jpg"> </a>
+<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_02.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_02.jpg"> </a>
+<a href="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_03.jpg"> <img src="https://github.com/BaselLaserMouse/TissueVisionMods/blob/master/images/xy_stage/MF_stage_with_adjustable_pillars_03.jpg"> </a>
 </figure>
 
 To make the imaging plane parallel with the stage motion plane:
