@@ -10,7 +10,7 @@ robc:
       url: "mailto:rob@mouse.vision"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mouse.vision"
+      url: "http://mouse.vision"
 
 adamt:
   name        : "Adam Tyson"
