@@ -1,5 +1,5 @@
 ---
-permalink: /publications/
+permalink: /links/
 title: "Links"
 layout: single
 classes: wide
