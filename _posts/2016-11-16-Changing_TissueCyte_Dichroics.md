@@ -23,8 +23,9 @@ We perform the replacement by switching out the dichroic and the circular plate 
 So we keep the same SM2 lens holder but change what is mounted in it.
 
 Our dichroic holder looks like this:
-<figure>
+<figure class="half">
     <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
+    <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
 </figure>
 
 The unit can be 3-D printed and the design files are in the TissueVisionMods git repository. 
@@ -36,8 +37,5 @@ Use an [SM2 spanner wrench](https://www.thorlabs.com/thorproduct.cfm?partnumber=
 Ensure the coated surface is facing the incoming light. 
 Handle the dichroics carefully! The surfaces are delicate.
 
-<figure>
-    <img src="{{ site.baseurl }}/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
-</figure>
 
 [Here are the CAD models for 3-D printing]({{ site.baseurl }}/assets/CAD/posts/dichroic_holder_CAD.tar.gz).
