@@ -26,6 +26,12 @@ feature_row_01:
     url: /registration
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/home/masiv.jpg
+    title: "Visualisation"
+    excerpt: "Visualisation software in MATLAB and Python"
+    url: /visualisation
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row_02:
   - image_path: /assets/images/home/Lasagna.jpg
     title: "Visualisation: Lasagna"
