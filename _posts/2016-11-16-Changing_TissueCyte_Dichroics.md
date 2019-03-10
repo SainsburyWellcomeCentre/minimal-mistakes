@@ -22,6 +22,7 @@ We usually run the system with the stock dichroics, but sometimes replace them f
 
 Our dichroic holder looks like this:
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png){: .align-center}
+![image-center](/assets/images/posts/SM2_filter_holder.png){: .align-center}
 
 <figure>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
