@@ -7,7 +7,7 @@ toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
+  overlay_image: /assets/images/acquisition/rgb_brain_banner.jpg
   actions:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"

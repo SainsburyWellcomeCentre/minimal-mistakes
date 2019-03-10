@@ -21,7 +21,7 @@ feature_row_01:
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg
     alt: "registration"
-    title: "Registration to Allen Atlas"
+    title: "Registration"
     excerpt: "Register brains to the Allen Atlas with Elastix or NiftyReg."
     url: /registration
     btn_label: "Read More"
