@@ -39,4 +39,4 @@ We used a [ThorLabs KL02](https://www.thorlabs.com/thorproduct.cfm?partnumber=KL
 
 Ensuring that the imaging plane and the and stage motion plane are parallel is similar. 
 We did this by imaging fluorescent microspheres and translating them across the frame and estimating the tilt by focusing with the PIFOC.
-If the tilt is unacceptable for your purposes, you can correct it with the [adjustable stage tilt](https://github.com/BaselLaserMouse/TissueVisionMods/wiki/Adding-height-adjustable-legs-to-the-stage) modification.
+If the tilt is unacceptable for your purposes, you can correct it with the [adjustable stage tilt](/adjustable_stage_tilt) modification.
