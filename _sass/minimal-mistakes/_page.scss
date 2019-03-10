@@ -22,12 +22,12 @@
 .page {
   @include breakpoint($large) {
     float: right;
-    width: 100% /*mod*/
+    width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: 100% /*mod*/
+    width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
 
@@ -440,7 +440,7 @@
   width: calc(100% - 60px);
 
   @include breakpoint($large) {
-    width: 100% /*mod*/
+    width: calc(100% - 100px);
   }
 }
 
@@ -474,11 +474,11 @@
 
   @include breakpoint($large) {
     float: right;
-    width: 100% /*mod*/
+    width: calc(100% - #{$right-sidebar-width-narrow});
   }
 
   @include breakpoint($x-large) {
-    width: 100% /*mod*/
+    width: calc(100% - #{$right-sidebar-width});
   }
 
   a {
