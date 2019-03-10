@@ -1,6 +1,5 @@
 ---
 title: "Adjustable stage tilt"
-permalink: /adjustable_stage_tilt/
 excerpt: "Provide for fine adjustment of TissueCyte X/Y/Z stage"
 header:
   teaser: "/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"
@@ -38,6 +37,12 @@ If you are careful in setting the height of the posts before screwing them into 
 <a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_01.jpg"> <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_01.jpg"> </a>
 <a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_02.jpg"> <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_02.jpg"> </a>
 <a href="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"> <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"> </a>
+</figure>
+
+<figure class="third">
+<a href="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_01.jpg"> <img src="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_01.jpg"> </a>
+<a href="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_02.jpg"> <img src="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_02.jpg"> </a>
+<a href="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"> <img src="{{ site.baseurl }}/assets/images/posts/MF_stage_with_adjustable_pillars_03.jpg"> </a>
 </figure>
 
 To make the imaging plane parallel with the stage motion plane:
