@@ -23,13 +23,6 @@ We perform the replacement by switching out the dichroic and the circular plate 
 So we keep the same SM2 lens holder but change what is mounted in it.
 
 Our dichroic holder looks like this:
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png){: .align-center}
-![image-center](/assets/images/posts/SM2_filter_holder.png){: .align-center}
-![image-center]("https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder.png"){: .align-center}
-<figure>
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/SM2_filter_holder.png">
-</figure>
-
 <figure>
     <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder.png">
 </figure>
@@ -44,6 +37,6 @@ Ensure the coated surface is facing the incoming light.
 Handle the dichroics carefully! The surfaces are delicate.
 
 <figure>
-    <a href="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg.png"><img src="/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg"></a>
+    <img src="https://sainsburywellcomecentre.github.io/OpenSerialSection/assets/images/posts/SM2_filter_holder_picture_with_screw.jpg">
 </figure>
 
