@@ -12,19 +12,12 @@ excerpt: "Open-source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."
 feature_row_01:
-  - image_path: "https://raw.githubusercontent.com/wiki/BaselLaserMouse/StitchIt/images/rgb_brain_example.jpg"
+  - image_path: /assets/images/home/waterbathInScope.jpg
     alt: "Acquisition"
     title: "Acquisition"
-    excerpt: "MATLAB-based acquisition software: ready to install and ready to modify."
-    url: "https://github.com/SainsburyWellcomeCentre/BakingTray/wiki"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/home/stitching.jpg
-    alt: "Stitching raw data"
-    title: "StitchIt"
-    excerpt: "Modular tile stitcher: compatible with any acquisition hardware."
-    url: "https://github.com/SainsburyWellcomeCentre/StitchIt"
-    btn_label: "Repo"
+    excerpt: "MATLAB-based acquisition and stitching software: ready to install and ready to modify."
+    url: /acquisition
+    btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg
     alt: "registatrion"
@@ -44,13 +37,6 @@ feature_row_02:
     title: "Visualisation: MaSIV"
     excerpt: "Incremental loader for full-res data in MATLAB"
     url: "https://github.com/alexanderbrown/masiv"
-    btn_label: "Repo"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/home/hacks.jpg
-    alt: "hacks"
-    title: "Hacks"
-    excerpt: "Hardware hacks and protocols for your serial-section 2p"
-    url: "https://github.com/SainsburyWellcomeCentre/TissueVisionMods/wiki"
     btn_label: "Repo"
     btn_class: "btn--primary"
 ---
