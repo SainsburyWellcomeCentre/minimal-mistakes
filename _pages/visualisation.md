@@ -12,25 +12,25 @@ header:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 
-feature_row_ara_tools:
-  - image_path: /assets/images/registration/reg_coronal.jpg
-    url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
-    alt: "MATLAB based registration"
-    title: "Elastix-based registration"
-    excerpt: 'Registering images in MATLAB using Elastix'
+feature_row_lasagna:
+  - image_path: /assets/images/home/Lasagna.jpg
+    url: "https://github.com/SainsburyWellcomeCentre/lasagna"
+    alt: "Lasagna"
+    title: "Visualisation: Lasagna"
+    excerpt: "Slicing visualisation in Python"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
-feature_row_amap:
-  - image_path:  /assets/images/registration/NiftyReg_Logo.jpg
-    alt: "NiftyReg Registration"
-    title: "NiftyReg-based registration"
-    excerpt: "Register brains using NiftyReg via aMAP"
-    url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
+feature_row_masiv:
+  - image_path:  /assets/images/home/masiv.jpg
+    alt: "MaSIV"
+    title: "Visualisation: MaSIV"
+    excerpt: "Incremental loader for full-res data in MATLAB"
+    url: "https://github.com/alexanderbrown/masiv"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
 ---
 
-{% include feature_row id="feature_row_ara_tools" type="left" %}
-{% include feature_row id="feature_row_amap"      type="left" %}
+{% include feature_row id="feature_row_lasagna" type="left" %}
+{% include feature_row id="feature_row_masiv"      type="left" %}
