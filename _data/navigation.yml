@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Blog"
+    url: /year/
   - title: "Links"
     url: /links/
   - title: "SWC"
