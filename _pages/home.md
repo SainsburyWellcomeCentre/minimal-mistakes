@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/home/GCamp6s_brain.jpg
   actions:
     - label: "All repos"
-      url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
+      url: "https://github.com/orgs/SainsburyWellcomeCentre"
 excerpt: "Open-source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."

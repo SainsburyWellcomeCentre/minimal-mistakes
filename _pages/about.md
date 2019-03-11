@@ -17,7 +17,7 @@ This site concentrates on block-face serial section 2-photon imaging of brain ti
 
 ## Our Tools
 This site presents open source tools used at the Sainsbury Wellcome Centre (UCL) for acquisition, analysis, and visualisation of serial section imaging data. 
-We make available both published and unpublished software via our [Serial2P](https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories) GitHub team. The main highlights are:
+We make available both published and unpublished software via our [Serial2P](https://github.com/orgs/SainsburyWellcomeCentre) GitHub team. The main highlights are:
 
 * The blog describes how [to modify commercial systems]({{ site.baseurl }}/tags/#hacks) in order to run our [BakingTray acquisition software](https://github.com/SainsburyWellcomeCentre/BakingTray). 
 * We make available [StitchIt](https://github.com/SainsburyWellcomeCentre/StitchIt), our modular tile stitcher for MATLAB.
