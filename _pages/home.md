@@ -8,7 +8,7 @@ header:
   actions:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre"
-excerpt: "Open-source Serial Section Imaging"
+excerpt: "Open Source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."
 feature_row_01:
