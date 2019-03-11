@@ -1,5 +1,5 @@
 ---
-title: "Open Serial Section"
+title: "Open Serial Sectioning"
 layout: splash
 permalink: /
 date: 2019-03-07
