@@ -1,6 +1,6 @@
 ---
 title: "TissueCyte Beam Alignment: Primary Dichroic"
-excerpt: "How to align the excitation path dichroic"
+excerpt: "How to align the excitation path dichroic on the TissueCyte"
 header:
   teaser: "/assets/images/posts/SM2_filter_holder.png"
 categories:
@@ -8,10 +8,11 @@ categories:
 tags: 
   - TissueCyte
   - Maintenance
+  - Alignment
 toc: false
 ---
- 
-The imaging dichroic is the final reflective element in the excitation path. 
+
+The TissueCyte imaging dichroic is the final reflective element in the excitation path. 
 Infrared laser light is reflected into the objective by the imaging dichroic.
 The fluorescence emitted from the sample passes through the imaging dichroic and onwards to the PMTs. 
 The dichroic needs to be 45 degrees with respect to the objective back aperture. 

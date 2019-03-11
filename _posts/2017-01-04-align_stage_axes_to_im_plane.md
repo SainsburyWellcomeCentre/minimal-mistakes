@@ -8,24 +8,24 @@ categories:
   - Acquisition
 tags: 
   - Maintenance
+  - Alignment
 toc: false
 ---
 
 
  For a tile-scanning microscope it is important for the image plane to be aligned with the stage motion axes. Specifically, the following must be the case:
 
-1. The X and Y scanners must displace the beam along orthogonal directions.
-2. The X and Y stages must displace the sample along orthogonal axes.
+1. The scanners must displace the beam along orthogonal directions.
+2. The X/Y stages must displace the sample along orthogonal axes.
 3. The X scanner should move the beam along the direction of motion of the X stage.
 4. The Y scanner should move the beam along the direction of motion of the Y stage. 
 5. The scanning plane (imaging plane) should be parallel with the plane of motion of the X and Y stages. 
 
-You can measure whether the scanners are orthogonal to each other (ours were not) by imaging a sub-micron grid and checking that the imaged grid lines are orthogonal to each other. 
+You can measure whether the scanners are orthogonal to each other by imaging a sub-micron grid and checking that the imaged grid lines are orthogonal to each other. 
 We use the [2145C 25 micron grids](http://www.2spi.com/search/2145C/) from 2SPI.
 Simply image them through a cover-slip at about 10 mW at the sample. 
 It is likely that the stages are already orthogonal to each other. 
 Once you've verified the above, all you need to do is ensure that the X and Y scanners are parallel with the X and Y stage motion axes. 
-Our system needed alignment of the stage and imaging axes. 
 The easiest way of doing this is to:
 
 - Image a sample and identify  place a small, bright, object within it.
