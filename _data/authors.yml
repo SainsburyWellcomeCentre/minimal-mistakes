@@ -15,7 +15,7 @@ robc:
 adamt:
   name        : "Adam Tyson"
   bio         : ""
-  avatar      : ""
+  avatar      : "/assets/images/icons/adamt.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
