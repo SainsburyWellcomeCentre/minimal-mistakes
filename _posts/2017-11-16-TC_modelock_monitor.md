@@ -3,7 +3,7 @@ title: "Stopping the TissueCyte on laser modelock failure"
 excerpt: "Code and instructions for stopping the TissueCyte upon laser modelock failure"
 author: robc
 header:
-  teaser: "/assets/images/posts/laserWithBeam.jpg"
+  teaser: "/assets/images/posts/laserWithBeam_teaser.jpg"
 categories:
   - Acquisition
 tags: 
@@ -12,6 +12,9 @@ tags:
 toc: false
 ---
  
+<figure>
+    <img src="{{ site.baseurl }}/assets/images/posts/laserWithBeam.jpg">
+</figure>
 
 The laser on our TissueCyte proved unreliable and would every so often lose modelock (i.e. stop pulsing). 
 No pulses means no two photon effect and so all acquired tiles are black. 
