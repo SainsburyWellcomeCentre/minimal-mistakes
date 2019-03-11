@@ -6,6 +6,8 @@ main:
     url: /year/
   - title: "Links"
     url: /links/
+  - title: "Contact"
+    url: /contact/
   - title: "SWC"
     url: https://www.sainsburywellcome.org/web/
   # - title: "About"

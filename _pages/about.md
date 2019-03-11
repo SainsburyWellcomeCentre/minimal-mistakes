@@ -18,7 +18,3 @@ We make available both published and unpublished software via our [Serial2P](htt
 * [Registration to the Allen Atlas](https://sainsburywellcomecentre.github.io/OpenSerialSection/registration/)
 * A blog organised by [date]({{ site.baseurl }}/year), by [tag]({{ site.baseurl }}/tags), or by [category]({{ site.baseurl }}/categories)
 
-
-### Contacting Us
-If you need to contact us about code, please file an issue or identify a suitable contact from the GitHub repository in question.
-General questions can be addressed to [Rob Campbell](http://mouse.vision/people.shtml).
