@@ -25,7 +25,7 @@ feature_row_masiv:
   - image_path:  /assets/images/home/masiv.jpg
     alt: "MaSIV"
     title: "Visualisation: MaSIV"
-    excerpt: "This MATLAB-based package loads a downsampled image stacks but presents the user with full-res data as they zoom in. MaSIV is stable but can only display a single channel at once. Extendable via plugins."
+    excerpt: "This MATLAB-based package loads downsampled image stacks but presents the user with full-res data as they zoom in. MaSIV is stable but can only display a single channel at once. Extendable via plugins."
     url: "https://github.com/alexanderbrown/masiv"
     btn_label: "Repo"
     btn_class: "btn--primary"
