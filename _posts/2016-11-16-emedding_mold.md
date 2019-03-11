@@ -2,7 +2,7 @@
 title: "Embedding mold"
 excerpt: "Easy agar embedding with aluminum mold"
 header:
-  teaser: "/assets/images/posts/MF_embedding_assembled_02.jpg"
+  teaser: "/assets/images/posts/MF_embedding_teaser.jpg"
 categories:
   - Acquisition
 tags: 
