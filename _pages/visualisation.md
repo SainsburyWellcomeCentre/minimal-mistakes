@@ -17,7 +17,7 @@ feature_row_lasagna:
     url: "https://github.com/SainsburyWellcomeCentre/lasagna"
     alt: "Lasagna"
     title: "Visualisation: Lasagna"
-    excerpt: "Slicing visualisation in Python"
+    excerpt: "This Python-based software is currently under development. It provides three linked orthogonal 2-D views for fast visualisation of downsampled image stacks. Allows overlays of multiple brains, multiple channels, traced neurites, or soma locations. Includes viewer for Allen Atlas. Extendable via plugins."
     btn_label: "Repo"
     btn_class: "btn--primary"
 
@@ -25,12 +25,13 @@ feature_row_masiv:
   - image_path:  /assets/images/home/masiv.jpg
     alt: "MaSIV"
     title: "Visualisation: MaSIV"
-    excerpt: "Incremental loader for full-res data in MATLAB"
+    excerpt: "This MATLAB-based package loads a downsampled image stacks but presents the user with full-res data as they zoom in. MaSIV is stable but can only display a single channel at once. Extendable via plugins."
     url: "https://github.com/alexanderbrown/masiv"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
 ---
 
-{% include feature_row id="feature_row_lasagna" type="left" %}
 {% include feature_row id="feature_row_masiv"   type="left" %}
+{% include feature_row id="feature_row_lasagna" type="left" %}
+
