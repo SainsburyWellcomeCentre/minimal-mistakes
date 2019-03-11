@@ -12,11 +12,8 @@ tags:
 toc: false
 ---
  
-<figure>
-    <img src="{{ site.baseurl }}/assets/images/posts/laserWithBeam.jpg">
-</figure>
 
-The laser on our TissueCyte proved unreliable and would every so often lose modelock (i.e. stop pulsing). 
+![image-left]({{ site.baseurl }}/assets/images/posts/laserWithBeam.jpg){: .align-left} The laser on our TissueCyte proved unreliable and would every so often lose modelock (i.e. stop pulsing). 
 No pulses means no two photon effect and so all acquired tiles are black. 
 Very annoying, especially when it happens at 2am. 
 TissueVision modified our version of Orchestrator to listen for a TTL signal on a defined digital line on the NI DAQ. 
