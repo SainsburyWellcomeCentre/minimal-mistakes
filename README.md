@@ -1,12 +1,15 @@
 # Open Serial Section Site
 
 
-## Conventions
+## Conventions and tips
 * `_pages` holds the main pages
-* `_posts` holds blog
+* `_posts` holds blog. Date of blog entry derived from file name. 
 * Images on home page and main pages should have ratio 1:1.61
 * Blog teaser images should be 4:1
-* Banners should be abuot 2000 x 400 px
+* Banners should be about 2000 x 400 px
+* [Info on adding multiple author details for blog posting](https://mmistakes.github.io/minimal-mistakes/docs/authors/)
+* The layout class used for the home page can only display three images. So it creates a gap if you add only two. 
+* To add images to blog posts [see dichroic post as an example(https://github.com/SainsburyWellcomeCentre/OpenSerialSection/edit/master/_posts/2016-11-16-Changing_TissueCyte_Dichroics.md)
 
 ## Usage
 
