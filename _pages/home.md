@@ -28,7 +28,7 @@ feature_row_01:
     btn_class: "btn--primary"
   - image_path: /assets/images/home/masiv.jpg
     title: "Visualisation"
-    excerpt: "Visualisation software in MATLAB and Python"
+    excerpt: "Visualise full or downsampled stacks in MATLAB and Python."
     url: /visualisation
     btn_label: "Read More"
     btn_class: "btn--primary"
