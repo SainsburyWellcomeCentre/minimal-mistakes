@@ -10,18 +10,20 @@ tags:
 toc: false
 ---
  
-Is it possible to use serial section imaging to determine the borders of cortical areas from in vivo widefield imaging experiments?
+Is it possible to register the brain surface as seen in widefield *in vivo* imaging to the Allen Atlas?
 
-![image-left]({{ site.baseurl }}/assets/images/posts/volume_view_vessels.jpg){: .align-left} Displaying downsampled serial section data in Fiji's volume viewer it becomes obvious that at least the larger blood vessels are clearly visible on the surface rendering. Ivana Orsolic and Petr Znamenskiy decided to use the vessels to register widefield functional imaging data to serial section stacks and so to the Allen Atlas.
+![image-left]({{ site.baseurl }}/assets/images/posts/volume_view_vessels.jpg){: .align-left} Displaying downsampled serial section data in Fiji's volume viewer shows that at least larger blood vessels are visible on the surface rendering. Ivana Orsolic and Petr Znamenskiy decided to use the vessels to register widefield functional imaging data to serial section stacks and so to the Allen Atlas.
 
-The brain was sliced and imaged then the downsampled volume was [registered to the Allen Atlas as usual](/registered). 
+The brain was sliced and imaged, then the downsampled volume was [registered to the Allen Atlas as usual](/registration). 
 The 3D image stack is now in the same space as the Allen Atlas.
 Using Petr's [recoverVasculature function](https://github.com/SainsburyWellcomeCentre/StitchIt/blob/master/code/stitchedStackManipulation/recoverVasculature.m) found in [StitchIt](https://github.com/SainsburyWellcomeCentre/StitchIt) the blood vessel patterns (now also in the Atlas space) are extracted from the downsampled serial section data. 
-An affine transformation brings the in vivo data into the same space as the sample and hence into the same space as the Atlas. 
+An affine transformation based on the vessels brings the *in vivo* data into the same space as the sample and hence into the same space as the Atlas. 
 
 
 
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/posts/VasculatureRegFig.jpg" >
+    <a href="{{ site.baseurl }}/assets/images/posts/VasculatureRegFig.jpg">
+        <img src="{{ site.baseurl }}/assets/images/posts/VasculatureRegFig.jpg" >
+    </a>
 </figure>
 
