@@ -27,3 +27,6 @@ An affine transformation based on the vessels brings the *in vivo* data into the
     </a>
 </figure>
 
+
+### References
+This work was inspired by the Allen Institute [informatics white paper](http://help.brain-map.org/download/attachments/2818171/Conn_Informatics_Data_Processing.pdf) on serial 2p processing.
