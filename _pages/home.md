@@ -12,7 +12,7 @@ excerpt: "Open Source Serial Section Imaging"
 intro:
   - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."
 feature_row_01:
-  - image_path: /assets/images/home/waterbathInScope.jpg
+  - image_path: /assets/images/home/two_brains_acq.jpg
     alt: "Acquisition"
     title: "Acquisition"
     excerpt: "MATLAB-based acquisition and stitching software: ready to install and ready to modify."
