@@ -11,15 +11,9 @@ header:
 ---
 
 
-### Image registration 
+### Analysis
 - [MelastiX](https://github.com/raacampbell/matlab_elastix) - Elastix wrapper for MATLAB. 
 
-### Viewers
-- [PyKnossos](https://github.com/adwanner/PyKNOSSOS)
-- [Orbit](http://www.orbit.bio/)
-- [Fiji](https://fiji.sc/)
-- [Icy](http://icy.bioimageanalysis.org/)
-- [MIB](http://mib.helsinki.fi/index.html) - General purpose MATLAB-based viewer
-- [ClearVolume](https://imagej.net/ClearVolume)
-- [spimagine](https://github.com/maweigert/spimagine)
-- [VAA3D](http://home.penglab.com/proj/vaa3d/home/index.html)
+
+### More
+- [mouse.vision](http://mouse.vision)
