@@ -41,4 +41,4 @@ feature_row_stitchit:
 - [FAST- serial section with a spinning disk confocal](https://www.sciencedirect.com/science/article/pii/S0896627317304555)
 - [Oblique lightsheet tomography](https://www.biorxiv.org/content/10.1101/132423v3)
 - [Brightfield cryo-sectioning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747656/)
-- [fMOST](https://www.nature.com/articles/ncomms12142#ref1)
+- [fMOST](https://www.nature.com/articles/ncomms12142)
