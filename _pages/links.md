@@ -15,5 +15,9 @@ header:
 - [MelastiX](https://github.com/raacampbell/matlab_elastix) - Elastix wrapper for MATLAB. 
 
 
+### Resources
+- [Allen mouse connectivity atlas](http://connectivity.brain-map.org/projection)
+- [Mouse iConnectome](http://cic.ini.usc.edu)
+
 ### More
 - [mouse.vision](http://mouse.vision)
