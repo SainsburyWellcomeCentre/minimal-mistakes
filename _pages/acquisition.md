@@ -38,7 +38,5 @@ feature_row_stitchit:
 
 ## Open tools by others
 - [TeraVoxel resonant-scanning serial section 2p](https://elifesciences.org/articles/10566) and [GitHub page](https://github.com/TeravoxelTwoPhotonTomography)
-- [FAST- serial section with a spinning disk confocal](https://www.sciencedirect.com/science/article/pii/S0896627317304555)
-- [Oblique lightsheet tomography](https://www.biorxiv.org/content/10.1101/132423v3)
-- [Brightfield cryo-sectioning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747656/)
-- [BPS](https://www.nature.com/articles/ncomms12142)
+- [Imperial College acquisition pipeline](https://github.com/ImperialCollegeLondon/ImperialTissueCyte)
+

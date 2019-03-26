@@ -11,8 +11,11 @@ header:
 ---
 
 
-### Analysis
-- [MelastiX](https://github.com/raacampbell/matlab_elastix) - Elastix wrapper for MATLAB. 
+### Alternative open acquisition systems
+- [FAST- serial section with a spinning disk confocal](https://www.sciencedirect.com/science/article/pii/S0896627317304555)
+- [Brain-wide positioning system](https://www.nature.com/articles/ncomms12142)
+- [Oblique lightsheet tomography](https://www.biorxiv.org/content/10.1101/132423v3)
+- [Brightfield cryo-sectioning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747656/)
 
 
 ### Resources
