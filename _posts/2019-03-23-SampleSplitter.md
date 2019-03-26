@@ -13,7 +13,7 @@ tags:
 toc: false
 ---
  
-It is now possible to image two or more brains at once with BakingTray and then split these up using the new StitchIt tool called "stitchit.sampleSplitter". 
+It is now possible to image two or more brains at once with BakingTray and then split these up using the new StitchIt tool called `stitchit.sampleSplitter`. 
 
 The approach simply involves mounting the brains close together and imaging a single large ROI. 
 After stitching, stitchit.sampleSplitter automatically identifies the ROIs associated with each brain and turns these into new sub-directories. 
