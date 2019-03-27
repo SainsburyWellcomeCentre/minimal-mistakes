@@ -25,8 +25,8 @@ Imaging multiple brains at once decreases setup time and makes more efficient us
 
 
 <figure>
-    <a href="{{ site.baseurl }}/assets/images/posts/twoBrains.jpg">
-        <img src="{{ site.baseurl }}/assets/images/posts/twoBrains.jpg" >
+    <a href="{{ site.baseurl }}/assets/images/posts/twoBrains.png">
+        <img src="{{ site.baseurl }}/assets/images/posts/twoBrains.png" >
     </a>
 </figure>
 
