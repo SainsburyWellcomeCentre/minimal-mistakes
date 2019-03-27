@@ -2,7 +2,7 @@
 title: "Imaging multiple samples at once"
 excerpt: "BakingTray and StitchIt can now handle multiple samples at once"
 header:
-  teaser: "/assets/images/home/GCamp6s_brain.jpg"
+  teaser: "/assets/images/home/twoBrains_teaser.jpg"
 categories:
   - Analysis
   - Acquisition
@@ -22,6 +22,15 @@ The tool can also be used to crop an acquisition with a single ROI. e.g. perhaps
 The doc text for the tool describes a workflow which allows these steps to be carried out on a remote analysis machine at the command line, without the need for a virtual desktop connection. 
 
 Imaging multiple brains at once decreases setup time and makes more efficient use of the microscope, as short acquisitions can be run concurrently, keeping the microscope busy overnight.
+
+
+<figure>
+    <a href="{{ site.baseurl }}/assets/images/posts/twoBrains.jpg">
+        <img src="{{ site.baseurl }}/assets/images/posts/twoBrains.jpg" >
+    </a>
+</figure>
+
+
 
 ### Links
 [stitchit.sampleSplitter on GitHub](https://github.com/SainsburyWellcomeCentre/StitchIt/tree/master/code/%2Bstitchit/%40sampleSplitter)
