@@ -2,7 +2,7 @@
 title: "Imaging multiple samples at once"
 excerpt: "BakingTray and StitchIt can now handle multiple samples at once"
 header:
-  teaser: "/assets/images/home/twoBrains_teaser.jpg"
+  teaser: "/assets/images/posts/twoBrains_teaser.jpg"
 categories:
   - Analysis
   - Acquisition
