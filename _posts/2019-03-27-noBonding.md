@@ -1,6 +1,6 @@
 ---
-title: "Embedding without covalent bonding"
-excerpt: "Thin sections can be cut without covalent bonding"
+title: "Embedding without covalent agarose bonding"
+excerpt: "How to cut thin sections without the covalent bonding protocol"
 header:
   teaser: "/assets/images/posts/roundedEdges_teaser.jpg"
 categories:
@@ -28,8 +28,8 @@ First of all you need to use 5% agar instead of 4%.
 The extra rigidity seems to decrease the chances of slices sticking. 
 Next you need to round the corners of the agar block on the far side of the blade:
 <figure>
-    <img src="{{ site.baseurl }}/assets/images/posts/roundedEdges01.jpg" >
-    <img src="{{ site.baseurl }}/assets/images/posts/RoundedCornerAgar.png" >
+    <img width=250px src="{{ site.baseurl }}/assets/images/posts/roundedEdges01.jpg" >
+    <img width=250px src="{{ site.baseurl }}/assets/images/posts/RoundedCornerAgar.png" >
 </figure>
 This is important because usually slices stick to the corners. 
 With those two teaks you should be able to cut thin sections with no covalent bonding.
