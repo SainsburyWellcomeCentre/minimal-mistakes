@@ -13,7 +13,8 @@ toc: false
 
 For the first two or three years after we started serial section imaging we employed the [covalent bonding protocol]({{ site.baseurl }}/acquisition/Covalent_Agarose), which aims to bind the brain sections to the agar. 
 However, we recently stopped doing this and found that we could still cut thin sections. 
-For instance, we can cut brains at 25 μm throughout (although we have replaced the TissueCyte vibratome with a Leica VT1000). 
+For instance, we can cut brains at 25 μm throughout.
+Full disclosure: we have also replaced the TissueCyte vibratome with a Leica VT1000. 
 This is good because it simplfies the sample preparation and means you don't have to mess around with potentially dangerous chemicals. 
 
 When you no longer covalently bond the agar, it is less rigid and there is a tendency for slices remain stuck to the agar block and flap around like an annoying book:
