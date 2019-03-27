@@ -25,13 +25,13 @@ When you no longer covalently bond the agar, it is less rigid and there is a ten
 
 Luckily, there is a solution. 
 First of all you need to use 5% agar instead of 4%. 
-The extra rigidity seems to decrease the chances of slices sticking. 
+The resulting extra rigidity seems to decrease the chances of slices sticking. 
 Next you need to round the corners of the agar block on the far side of the blade:
-<figure>
-    <img width="250px" src="{{ site.baseurl }}/assets/images/posts/roundedEdges01.jpg" >
-    <img width="250px" src="{{ site.baseurl }}/assets/images/posts/RoundedCornerAgar.png" >
+<figure class="half">
+    <img src="{{ site.baseurl }}/assets/images/posts/roundedEdges01.jpg" >
+    <img src="{{ site.baseurl }}/assets/images/posts/RoundedCornerAgar.png" >
 </figure>
 This is important because usually slices stick to the corners. 
-With those two teaks you should be able to cut thin sections with no covalent bonding.
+With those two tweaks you should be able to cut thin sections without the faffing around of covalent bonding.
 
 
