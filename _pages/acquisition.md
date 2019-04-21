@@ -38,5 +38,6 @@ feature_row_stitchit:
 
 ## Open tools by others
 - [TeraVoxel resonant-scanning serial section 2p](https://elifesciences.org/articles/10566) and [GitHub page](https://github.com/TeravoxelTwoPhotonTomography)
+- [FAST serial section spinning disk confocal](https://www.nature.com/articles/s41596-019-0148-4)
 - [Imperial College acquisition pipeline](https://github.com/ImperialCollegeLondon/ImperialTissueCyte)
 
