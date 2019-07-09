@@ -17,6 +17,6 @@ The code is capable of running on a GPU and registering smaller samples in secon
 
 
 <figure>
-        <img width="400px" src="{{ site.baseurl }}/assets/images/posts/ChroMS_cells.jpg" >
+        <img width="400px" src="{{ site.baseurl }}/assets/images/posts/neurodata_image_reg.png" >
 </figure>
 
