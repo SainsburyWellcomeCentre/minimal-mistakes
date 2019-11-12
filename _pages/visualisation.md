@@ -36,6 +36,8 @@ feature_row_masiv:
 {% include feature_row id="feature_row_lasagna" type="left" %}
 
 ## Links
+- [BrainRender](https://github.com/BrancoLab/BrainRender) - 3D visualiser for data in Allen Space
+- [Napari](https://github.com/napari/napari-tutorials/blob/master/gallery/gallery.md) - Fast visualisation of big image data in Python
 - [Fiji](https://fiji.sc/) - It's Fiji
 - [Icy](http://icy.bioimageanalysis.org/) - Fiji alternative
 - [ClearVolume](https://imagej.net/ClearVolume) - Fiji plugin for making pretty transparent volumes
