@@ -26,6 +26,13 @@ feature_row_01:
     url: /registration
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row_02:
+  - image_path: /assets/images/home/masiv.jpg
+    title: "Visualisation"
+    excerpt: "Visualise full or downsampled stacks in MATLAB and Python."
+    url: /visualisation
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/home/masiv.jpg
     title: "Visualisation"
     excerpt: "Visualise full or downsampled stacks in MATLAB and Python."
@@ -36,3 +43,4 @@ feature_row_01:
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row_01"      %}
+{% include feature_row id="feature_row_02"      %}
