@@ -25,8 +25,8 @@ feature_row_amap:
   - image_path:  /assets/images/registration/NiftyReg_Logo.jpg
     alt: "NiftyReg Registration"
     title: "NiftyReg-based registration"
-    excerpt: "Register brains using NiftyReg via aMAP"
-    url: "https://github.com/SainsburyWellcomeCentre/aMAP/wiki"
+    excerpt: "Register brains using NiftyReg via aMAP-Python"
+    url: "https://github.com/SainsburyWellcomeCentre/amap-python"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
