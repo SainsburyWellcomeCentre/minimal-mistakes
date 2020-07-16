@@ -46,7 +46,6 @@ feature_row_brainrender:
 {% include feature_row id="feature_row_brainrender" type="left" %}
 
 ## Links
-- [BrainRender](https://github.com/BrancoLab/BrainRender) - 3D visualiser for data in Allen Space
 - [Napari](https://github.com/napari/napari-tutorials/blob/master/gallery/gallery.md) - Fast visualisation of big image data in Python
 - [Fiji](https://fiji.sc/) - It's Fiji
 - [Icy](http://icy.bioimageanalysis.org/) - Fiji alternative
