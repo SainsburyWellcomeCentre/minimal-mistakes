@@ -43,6 +43,7 @@ feature_row_brainrender:
 
 {% include feature_row id="feature_row_masiv"   type="left" %}
 {% include feature_row id="feature_row_lasagna" type="left" %}
+{% include feature_row id="feature_row_brainrender" type="left" %}
 
 ## Links
 - [BrainRender](https://github.com/BrancoLab/BrainRender) - 3D visualiser for data in Allen Space
