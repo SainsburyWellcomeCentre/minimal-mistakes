@@ -26,7 +26,16 @@ feature_row_masiv:
     alt: "MaSIV"
     title: "Visualisation: MaSIV"
     excerpt: "This MATLAB-based package loads downsampled image stacks but presents the user with full-res data as they zoom in. MaSIV is stable but can only display a single channel at once. Extendable via plugins."
-    url: "https://github.com/alexanderbrown/masiv"
+    url: "https://github.com/SainsburyWellcomeCentre/masiv"
+    btn_label: "Repo"
+    btn_class: "btn--primary"
+
+feature_row_brainrender:
+  - image_path:  /assets/images/home/brain_render.jpg
+    alt: "brainrender"
+    title: "Visualisation: BrainRender"
+    excerpt: "This Python-based package handles visualization of three dimensional neuroanatomical from publicly available datasets (e.g. Allen Brain atlas) and from user generated experimental data. The goal of brainrender is to faciliate the exploration and communication of neuroanatomical data by providing a user-friendly platform to create 3D renderings."
+    url: "https://github.com/BrancoLab/BrainRender"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
