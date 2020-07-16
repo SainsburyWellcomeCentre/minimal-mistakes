@@ -38,5 +38,7 @@ feature_row_amap:
 ## Related tools
 - [ClearMap](https://idisco.info/) - An Elastix/Python pipeline related to iDISCO
 - [SimpleElastix](https://simpleelastix.github.io/) - A nice Elastix wrapper for multiple languages
+- [BIRDS (pre-print)](https://www.biorxiv.org/content/10.1101/2020.06.30.181255v2)
+- [Geometry Processing of Conventionally Produced Mouse Brain Slice Images](https://www.ics.uci.edu/~agarwal/mouseBrain/index.html)
+- [Whole Brain Software](http://www.wholebrainsoftware.org/)
 - [MelastiX](https://github.com/raacampbell/matlab_elastix) - Elastix wrapper for MATLAB. 
-
