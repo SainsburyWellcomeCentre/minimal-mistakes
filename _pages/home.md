@@ -20,10 +20,10 @@ feature_row_01:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/Registration.jpg
-    alt: "registration"
-    title: "Registration"
-    excerpt: "Register brains to the Allen Atlas with Elastix or NiftyReg."
-    url: /registration
+    alt: "analysis"
+    title: "Analysis"
+    excerpt: "Register brains to the Allen Atlas and count cells."
+    url: /analysis
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/home/masiv.jpg
