@@ -41,9 +41,10 @@ feature_row_brainrender:
 
 ---
 
+{% include feature_row id="feature_row_brainrender" type="left" %}
 {% include feature_row id="feature_row_masiv"   type="left" %}
 {% include feature_row id="feature_row_lasagna" type="left" %}
-{% include feature_row id="feature_row_brainrender" type="left" %}
+
 
 ## Links
 - [Napari](https://github.com/napari/napari-tutorials/blob/master/gallery/gallery.md) - Fast visualisation of big image data in Python
