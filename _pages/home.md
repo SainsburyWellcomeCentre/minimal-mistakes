@@ -10,7 +10,7 @@ header:
       url: "https://github.com/orgs/SainsburyWellcomeCentre"
 excerpt: "Open Source Serial Section Imaging"
 intro:
-  - excerpt: "Acquisition, analysis, and visualisation of serial-section imaging data."
+  - excerpt: "Tools developed at the SWC for acquisition, analysis, and visualisation of serial-section imaging data."
 feature_row_01:
   - image_path: /assets/images/home/two_brains_acq.jpg
     alt: "Acquisition"

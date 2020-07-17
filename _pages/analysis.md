@@ -1,19 +1,19 @@
 ---
 permalink: /analysis/
-title: "Registering serial section data"
+title: "Analysing serial section data"
 layout: splash
-excerpt: "Sample registration to the Allen Atlas"
+excerpt: "Sample registration and analysis"
 toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/registration/reg_banner.jpg
+  overlay_image: /assets/images/analysis/reg_banner.jpg
   actions:
     - label: "All repos"
       url: "https://github.com/orgs/SainsburyWellcomeCentre/teams/serial2p/repositories"
 
 feature_row_ara_tools:
-  - image_path: /assets/images/registration/reg_coronal.jpg
+  - image_path: /assets/images/analysis/reg_coronal.jpg
     url: "https://github.com/SainsburyWellcomeCentre/ara_tools"
     alt: "MATLAB based registration"
     title: "Elastix-based registration"
@@ -22,11 +22,20 @@ feature_row_ara_tools:
     btn_class: "btn--primary"
 
 feature_row_amap:
-  - image_path:  /assets/images/registration/NiftyReg_Logo.jpg
+  - image_path:  /assets/images/analysis/NiftyReg_Logo.jpg
     alt: "NiftyReg Registration"
     title: "NiftyReg-based registration"
     excerpt: "Register brains using NiftyReg via amap"
     url: "https://github.com/SainsburyWellcomeCentre/amap-python"
+    btn_label: "Repo"
+    btn_class: "btn--primary"
+
+feature_row_cellfinder:
+  - image_path:  /assets/images/analysis/cellfinder_Logo.jpg
+    alt: "Automatic cell counting"
+    title: "Automatic cell counting""
+    excerpt: "Automatically count labelled cells with this cross-platform Python package"
+    url: "https://github.com/SainsburyWellcomeCentre/cellfinder"
     btn_label: "Repo"
     btn_class: "btn--primary"
 
