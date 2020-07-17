@@ -33,7 +33,7 @@ feature_row_amap:
 feature_row_cellfinder:
   - image_path:  /assets/images/analysis/cellfinder_Logo.jpg
     alt: "Automatic cell counting"
-    title: "Automatic cell counting""
+    title: "Automatic cell counting"
     excerpt: "Automatically count labelled cells with this cross-platform Python package"
     url: "https://github.com/SainsburyWellcomeCentre/cellfinder"
     btn_label: "Repo"
@@ -41,8 +41,9 @@ feature_row_cellfinder:
 
 ---
 
-{% include feature_row id="feature_row_ara_tools" type="left" %}
-{% include feature_row id="feature_row_amap"      type="left" %}
+{% include feature_row id="feature_row_ara_tools"  type="left" %}
+{% include feature_row id="feature_row_amap"       type="left" %}
+{% include feature_row id="feature_row_cellfinder" type="left" %}
 
 ## Related tools
 - [ClearMap](https://idisco.info/) - An Elastix/Python pipeline related to iDISCO
