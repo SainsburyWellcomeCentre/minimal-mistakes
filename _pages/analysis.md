@@ -31,7 +31,7 @@ feature_row_amap:
     btn_class: "btn--primary"
 
 feature_row_cellfinder:
-  - image_path:  /assets/images/analysis/cellfinder_Logo.jpg
+  - image_path:  /assets/images/analysis/cellfinder-logo.jpg
     alt: "Automatic cell counting"
     title: "Automatic cell counting"
     excerpt: "Automatically count labelled cells with this cross-platform Python package"
