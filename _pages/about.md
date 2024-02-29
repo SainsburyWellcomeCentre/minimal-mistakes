@@ -21,8 +21,8 @@ We make available both published and unpublished software via our [Serial2P](htt
 
 * [BakingTray](https://bakingtray.mouse.vision/) acquisition software
 * [StitchIt](https://github.com/SainsburyWellcomeCentre/StitchIt), our tile-stitcher for MATLAB.
-* [cellfinder](https://github.com/SainsburyWellcomeCentre/cellfinder) for automatic cell counting
-* [BrainRender](https://github.com/BrancoLab/BrainRender) for 3-D visualisation
+* [cellfinder](https://github.com/brainglobe/cellfinder) for automatic cell counting
+* [BrainRender](https://github.com/brainglobe/brainrender) for 3-D visualisation
 
 
 * Our blog contains a variety of information and is organised by [date]({{ site.baseurl }}/year), by [tag]({{ site.baseurl }}/tags), or by [category]({{ site.baseurl }}/categories).
