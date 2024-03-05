@@ -10,8 +10,7 @@ header:
       url: "https://github.com/orgs/SainsburyWellcomeCentre"
 excerpt: "Open Source Serial Section Imaging"
 intro:
-  - excerpt: "Tools developed at the SWC for acquisition, analysis, and visualisation of serial-section imaging data.
-             AS OF MARCH 2024 THIS WEBSITE IS NO LONGER BEING UPDATED. CONTENT IS MOVING TO THE [SWC AMF WEBPAGE](https://swc-advanced-microscopy.github.io/facility_webpage/)!"
+  - excerpt: "AS OF MARCH 2024 THIS WEBSITE IS NO LONGER BEING UPDATED. CONTENT IS MOVING TO THE [SWC AMF WEBPAGE](https://swc-advanced-microscopy.github.io/facility_webpage/)!"
 feature_row_01:
   - image_path: /assets/images/home/two_brains_acq.jpg
     alt: "Acquisition"
